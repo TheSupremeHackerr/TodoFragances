@@ -1,0 +1,6 @@
+{
+  "name": "Todofragances",
+  "description": "An exquisite, ultra-premium luxury fragrance flagship boutique under the Todofragances brand, featuring a custom interactive Olfactory Accord Lab, real-time Gemini AI integration, parallax animation, and bespoke laser cap engraving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
